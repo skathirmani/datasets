@@ -1,0 +1,51 @@
+product_id,product_name,category,price,stock_quantity,supplier
+0088afd4-a618-4126-b704-876e39943a6a,stand,student,585.57,15,"Davis, Brooks and Mckee"
+3965d75c-0153-4a41-984f-73a0a4773be7,situation,culture,560.26,21,Beasley Group
+7bd7ec1d-c248-449d-be5d-04ad16f97db6,baby,expert,454.59,67,Adams-Garcia
+c3715c51-117f-4fe3-9a79-d469474d9d37,according,soon,20.77,25,Beard LLC
+6250a5a5-693a-4a5b-9f7e-9b48bb7f56bf,spring,father,534.65,100,"Wyatt, Ramirez and Middleton"
+e489d235-8bf3-4114-a1ed-0690169e0d6a,Mr,man,403.5,17,Davis-Ray
+24736953-57c3-441e-a242-0a743f716d21,if,law,353.85,93,Harper-Lynch
+1ddc7ab7-6d35-492a-9232-520746b2ead1,movement,open,960.88,31,Lee-Robbins
+f944007e-9b03-471e-ad37-001d2b8c9217,everybody,create,913.96,9,Johnson-Rodriguez
+488756c5-5c77-4a70-902c-056529e72590,administration,attention,338.42,78,Jones PLC
+55d66364-ed18-4a44-bfaf-abaa44c4bc3f,rise,every,564.0,96,"Hampton, Perkins and Wilson"
+a94cd62f-b802-4a1a-ab21-5153f3763736,baby,could,268.08,44,Young and Sons
+5f19ea96-9a93-444e-a734-8a1d1489ef4e,beautiful,fish,679.4,54,Byrd-Lopez
+eb075139-dcee-4207-914a-205274a7a401,traditional,along,397.71,55,Peterson LLC
+9fb08507-c968-4310-8718-d6415ca55c12,small,event,227.84,5,Burns Inc
+577d189b-f704-41a9-a7a7-f545e9049fc8,together,pressure,414.43,80,"Morales, Howard and Gregory"
+e0a2cfef-ff58-4b13-9f5e-2a182e8e3000,international,a,795.16,32,Mccormick-Wright
+dd1ed114-a350-480c-aa95-ba1569533067,wind,leg,136.93,61,Wood-Miller
+c571e936-b9de-4722-b645-b2555cc50a26,season,tough,989.79,45,"Fisher, Moore and Johnson"
+eeda05b9-2980-40f6-ac50-2e4500c4e23f,scientist,fish,26.53,76,Jones and Sons
+feb51880-c8de-4e48-9a6e-96ef9d2844e9,level,Republican,822.77,42,James-Mercado
+c712ea63-0bfa-43e1-a12e-d2580db64e9f,case,significant,138.79,82,Mills PLC
+5e146165-4d1e-400e-9f2d-794c04a9ac41,who,live,289.3,32,"Hansen, Herrera and Carter"
+cad2ba48-96b7-4537-9112-a95f84be934b,occur,matter,157.84,96,Wilcox-Johnson
+5a175ccc-00f3-4cb9-a21f-022b427ab6e0,foreign,step,268.7,2,Stewart Ltd
+be64dac8-d407-474f-a10f-a208b7b64f8f,stand,camera,390.53,81,Mccall-Frederick
+be43d226-bc20-48a5-a914-2c8badfd429f,almost,heavy,850.88,96,Warner PLC
+d229250a-28d9-44cb-bc84-43b60e2d18a1,huge,pressure,354.22,76,Perez-Alexander
+23134f24-a180-4982-897e-2470635bed22,generation,rise,173.98,84,Martin-Garcia
+9915b47b-2109-464b-b87b-79b8ea0c3e99,purpose,others,300.88,47,"Meyers, Cooper and Mendoza"
+b3e03674-f60c-4489-925e-823c1b45ad77,politics,truth,165.05,23,Anderson-Strickland
+fe1fd2a3-244d-495b-99e8-f1e881e1f870,growth,yourself,426.31,2,Shelton-Porter
+60bf7c71-1cb0-4522-8f6a-70d0b42ced4d,six,sport,932.54,12,Durham LLC
+7ea159c8-d7f1-401d-b06e-50c42dccd792,hand,work,750.88,50,Lucas-Brown
+d84212f5-217a-45bf-b577-27dee56c3714,subject,painting,253.0,6,Wright-Stevenson
+a6e3bde4-cf30-4c4c-a7a8-2a1ececf3711,since,station,146.27,48,"Tanner, Riley and Silva"
+66506026-b477-4b88-961a-c96ebaa8699d,good,money,424.56,85,Melendez Inc
+f7fa58ef-5dce-4a90-bf45-1e617d942d0e,program,final,150.29,58,Lucas PLC
+6c3aafce-af87-47a1-a270-e8ce711c65a3,soldier,phone,805.37,96,Taylor-Graham
+9d792e15-e4c2-4653-97af-2f92d1a869c6,security,she,117.17,64,Wolfe-Martinez
+1fe57140-1480-4aae-82ae-ad1bb07d1c17,scientist,various,830.43,76,Bond Group
+4458ec66-d7e7-44bc-96a7-6447e814eca3,set,off,932.61,29,Rodriguez-Rivers
+ea309f2c-da4e-4218-b50c-ef511dcb8b19,food,card,409.58,33,Richardson PLC
+c1ca9529-5d2c-4c6e-a8fa-3421b080dfaf,guess,current,594.15,74,Rivera Ltd
+88731948-c7f7-4074-8d08-0595547ec49a,account,several,928.69,57,"Snyder, Brown and Riggs"
+ab6275c1-5b66-416e-9b60-4529322c22d7,film,sell,658.84,44,"Porter, Alvarez and Adams"
+616b94cd-dbdc-46d8-b93b-a523e14e739b,them,since,935.91,33,Luna-Williams
+2af8235e-5f1f-446f-a4b0-0ee802f1e7eb,word,both,816.55,74,Wolfe-Johnson
+36f15e32-6cce-4951-b0a4-dbd1c299e3cc,sometimes,could,662.6,16,Boone and Sons
+c08d0d40-6ee3-4d2f-ae2b-7e2c36a56676,edge,and,226.66,40,Perez-Dorsey
