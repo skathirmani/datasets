@@ -37,10 +37,10 @@ Most of the fields are self-explanatory. The following are descriptions for thos
   - Save the trained model using joblib or pickle.
 
 - Streamlit App
-- Create a UI where users can:
-  - Upload new test files or select a specific Store and Date to get a prediction.
-  - View prediction results in tabular and graphical format.
-- Add visualizations to explore sales trends across stores.
-- Add filters (e.g., store type, promo) to see segmented predictions.
+  - Create a UI where users can:
+    - Upload new test files or select a specific Store and Date to get a prediction.
+    - View prediction results in tabular and graphical format.
+  - Add visualizations (with filters) to explore sales trends across stores.
+
 - Code file repository
   - Commit the app & model code in your github repository    
